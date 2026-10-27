@@ -1,0 +1,12 @@
+﻿Front,Back
+hola,hello
+"a, b","comma, inside"
+"multi
+line","back
+side"
+extra,cols,ignored
+only-one
+empty-back,
+hola,duplicate
+
+  padded  ,  spaces  
